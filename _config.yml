@@ -1,9 +1,9 @@
 # Site settings
-author: Renee Nordholm
+author: Renee
 title: Renee's Dev Blog
 header-img: img/home-bg.png
 email: reneenordholm@gmail.com
-copyright_name: Renee Nordholm
+copyright_name: Renee
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts as I learn to code
 baseurl: "" # the subpath of your site, e.g. /blog
