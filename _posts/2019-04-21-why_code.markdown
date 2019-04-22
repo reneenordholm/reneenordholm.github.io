@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "Why code??"
+date:       2019-04-22 00:05:44 +0000
+permalink:  why_code
+---
+
+
+I start this coding journey for the same reason as many others: to pivot and change careers. My background is in management, retail, customer service, marketing, and accounting.  I have owned my own businesses, helped plan a few craft shows, and even led my own Zumba class for a while.  I enjoy learning and knowing how to do many things and exploring the world of code just seems like a natural skill to have in my tool belt.  
+
+Having previously worked for a software development firm, I was in awe of the programs developed out of nothing, and felt all the warm fuzzies while observing the commraderie that came along with the dev team accomplishing projects together.  As a preteen I built my own websites using HTML and CSS by hand, I enjoyed working with computers and the problem-solving aspect that came along with it, however went a different route with my career as I got older.  Now I should say maybe I just took a break. (;  I am also an introvert by nature, so working alone on projects is a comfortable space for me.  
+
+Learning to code seems like it will both enhance and mesh well with my current skills, in addition to teaching me new skills.  I look forward to this journey!
