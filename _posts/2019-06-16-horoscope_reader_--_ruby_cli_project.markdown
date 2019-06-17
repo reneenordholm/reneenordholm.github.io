@@ -62,8 +62,10 @@ Whew!  It all happens so fast and is really like a roller coaster of reading, pu
 
 ![](https://raw.githubusercontent.com/reneenordholm/horoscope_reader/master/Blog/ruby_cli_image_5.png)
 
-Last couple of files to note our are *gemfile* and *.gemspec* files, which are located in the main directory of our *horoscopereader* folder.  The are auto-created for use when we use [Bundler](https://bundler.io/) but we need to update them based on our program's needs.  Remember we touched on `pry`, `open-uri`, and `nokogiri` earlier?  Here's where we add those details.
+Last couple of files to note our are *gemfile* and *.gemspec* files, which are located in the main directory of our *horoscope_reader* folder.  The are auto-created for use when we use [Bundler](https://bundler.io/) but we need to update them based on our program's needs.  Remember we touched on `pry`, `open-uri`, and `nokogiri` earlier?  Here's where we add those details.
 * `pry` is a great debugging tool, as you build your application if you're unsure of what data is actually being output by the code entered, you can throw in a binding.pry and try running your program.  From here you'll be presented a screen that allows you work work within that code, trying different variables and iterators to make sure your data is correct.
 * `nokogiri` is a lovely tool that allows for parsing data from a website that uses HTML, XML, or CSS.
-* `open-uri` allows us to open http, https or ftp URLs and access their data
+* `open-uri` allows us to open http, https or ftp URLs and access their data.
+
+We've covered a lot here!  Of course for brevity a few things were left out and will be covered in future posts.  For now though, what's your sign?  The the CLI and have it read your horoscope. <3
 
