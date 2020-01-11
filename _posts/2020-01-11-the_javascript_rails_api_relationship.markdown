@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The JavaScript / Rails API Relationship"
-date:       2020-01-11 22:53:44 +0000
+date:       2020-01-11 17:53:45 -0500
 permalink:  the_javascript_rails_api_relationship
 ---
 
@@ -9,6 +9,8 @@ permalink:  the_javascript_rails_api_relationship
 Next up on my project tinkerings is a Single Page Application (SPA) that utilizes a JavaScript front end and Rails API backend. For this project I decided to create a resume-type page, since I will start applying for jobs soon. I figured it would be a good idea to consolidate my work history and interests in one cozy spot! Upon passing my Flatiron project review for this project, I plan to upload it to Heroku and use it as a personal marketing tool as I connect with people in the development community. We are getting close to the end here at Flatiron and though a bit nerve-wracking to not know precisely what the future holds, it is an exciting and rewarding time!
 
 Here’s a bit of info about my project.
+
+![](https://raw.githubusercontent.com/reneenordholm/reneenordholm.github.io/master/img/01112020-nordholm-blog-1.png)
 
 * I at first attempted to use Postgres for my database, but was having issues with my computer running it properly, so I switched over to SQLite. I will have to switch back to Postgres before uploading to Heroku, but after spending a day attempting to get Postgres to work I decided it was best to stick to what I have already been using lest waste anymore time.
 * I started a new Rails app utilizing the Rails API flag. I then enabled cookies manually so I could still utilize cookies while remaining in a more lightweight framework.
@@ -51,3 +53,5 @@ The the Rails API is able to render in a JavaScript frontend is that all data re
 ```
 
 The JSON format is easily read by frontend languages like JavaScript, so by retrieving the data from a reliable backend and rendering it in JSON, we can use the dynamic functionality that JavaScript provides in order to create an interactiv and user-friendly website.
+
+![](https://raw.githubusercontent.com/reneenordholm/reneenordholm.github.io/master/img/01112020-nordholm-blog-2.png)
