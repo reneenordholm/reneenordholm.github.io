@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Enter your title here"
-date:       2020-01-11 22:50:19 +0000
+title:      "The JavaScript / Rails API Relationship"
+date:       2020-01-11 17:50:20 -0500
 permalink:  enter_your_title_here
 ---
 
