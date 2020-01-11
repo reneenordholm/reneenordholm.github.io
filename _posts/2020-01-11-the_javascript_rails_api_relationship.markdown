@@ -56,6 +56,6 @@ The JSON format is easily read by frontend languages like JavaScript, so by retr
 
 Each item in my database is output as JSON and rendered via JavaScript and CSS.   I have a somewhat hidden login feature that enables me to login and edit each database item from the SPA frontend without having to get into the backend or database manually.  Super convienient!  Once logged in, I can just click on the item I want to update and a custom form pops up.  Login/logout, edits, and the initial item renders are all populated via fetch requests to my database.
 
-![](https://raw.githubusercontent.com/reneenordholm/reneenordholm.github.io/master/img/01112020-nordholm-blog-2.png) 
+![](https://raw.githubusercontent.com/reneenordholm/reneenordholm.github.io/master/img/01112020-nordholm-blog-2.png)
 
 While simple this application is robust and concise in it's innerworkings and effectly hits all the deliverables this project required.  I am excited to have not only learned this new-to-me programming language, but also excited that I have a product I can show off to family, friends, and most importantly, future job prospects!
